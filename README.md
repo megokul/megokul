@@ -38,6 +38,44 @@ A Dockerized regression pipeline with a simple web interface for real-time predi
 
 ---
 
+## 💼 Professional Experience
+
+**🔹 Data Scientist – General Motors (via TCS)**  
+*Sep 2019 – Aug 2023 · Bangalore, India*  
+- Reduced EV battery module mass by 11% via ML-driven simulation optimization  
+- Automated FEA workflows and built predictive models for unseen load conditions  
+- Developed Kriging-based optimization and mentored junior engineers in ML-integrated engineering
+
+**🔹 Structural Analyst – Johnson & Johnson MedTech (via TCS)**  
+*Feb 2017 – Aug 2019 · Kolkata, India*  
+- Optimized design cycles for surgical devices using FE analysis and statistical tools  
+- Built automation scripts for structural simulation and data extraction  
+- Supported design for novel uterine tumor excision device using biomechanical modeling
+
+---
+
+## 🧩 About Me
+
+- 🛠 **I’m currently working on**  
+  Production-grade AI APIs with FastAPI + Celery + MLflow for scalable ML deployment.
+
+- 🤝 **I’m looking to collaborate on**  
+  Applied ML projects, MLOps tooling, or LLM use cases in healthcare or finance.
+
+- 🧠 **I’m looking for help with**  
+  Model serving at scale and efficient Kubernetes-based deployment.
+
+- 🌱 **I’m currently learning**  
+  LLM fine-tuning, Kubeflow pipelines, and advanced ML monitoring strategies.
+
+- 💬 **Ask me about**  
+  MLOps pipelines, Kriging optimization, DVC, or real-world AI deployment.
+
+- ⚡ **Fun fact**  
+  My first ML pipeline was trained entirely on FEA simulation data—no labeled dataset, just raw physics!
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nv-gokul-krishna/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nvgokulkrishna@gmail.com) 
 
