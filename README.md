@@ -8,7 +8,7 @@ Here are two of my featured projects showcasing end-to-end ML engineering with m
 
 ## 🚀 Featured Projects
 
-### 🔐 Phishing Detection API with MLOps  
+### 🔐 [Phishing Detection API with MLOps](https://github.com/megokul/networksecurity_ml_api)  
 A fully modular, production-grade ML pipeline for phishing detection with:
 
 - FastAPI for API serving (`/train`, `/predict`)
@@ -19,23 +19,22 @@ A fully modular, production-grade ML pipeline for phishing detection with:
 - Schema + drift validation, preprocessing, and artifact management
 - CI/CD with **GitHub Actions**, auto-sync to **AWS S3**
 
-🔗 *Technologies:* FastAPI, Scikit-learn, Celery, MLflow, Optuna, AWS S3, GitHub Actions, MongoDB, Docker  
-📂 *Architecture:* Modular, YAML-driven, CI/CD-enabled
+🔗 *Tech:* FastAPI, Scikit-learn, Celery, MLflow, Optuna, AWS, MongoDB, Docker  
+📂 *Design:* Modular, YAML-driven, CI/CD-enabled
 
 ---
 
-### 🍷 Regression Pipeline – Wine Quality Prediction  
+### 🍷 [Wine Quality Prediction – Regression Pipeline](https://github.com/megokul/wine_quality_prediction)  
 A Dockerized regression pipeline with a simple web interface for real-time prediction:
 
 - Built using **ElasticNet Regression**
 - Flask frontend for user input and result display
 - Modular pipeline: ingestion → validation → transformation → training → prediction
 - Structured with reusable entity-based config classes
-- End-to-end experiment logging with **MLflow**
-- YAML-based pipeline orchestration for reproducibility
+- MLflow-based experiment logging & reproducible config
 
-🔗 *Technologies:* Flask, Scikit-learn, MLflow, Docker, YAML, Git  
-📂 *Architecture:* Lightweight & extensible for deployment and experimentation
+🔗 *Tech:* Flask, Scikit-learn, MLflow, Docker, YAML  
+📂 *Design:* Lightweight, extensible, production-ready
 
 ---
 
