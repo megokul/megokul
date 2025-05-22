@@ -96,3 +96,12 @@ A Dockerized regression pipeline with a simple web interface for real-time predi
 ![](https://github-contributor-stats.vercel.app/api?username=megokul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/megokul/megokul/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/megokul/megokul/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/megokul/megokul/output/pacman-contribution-graph.svg">
+</picture>
+
+<em>_generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">abozanona/pacman-contribution-graph</a>_</em>
