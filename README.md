@@ -5,16 +5,24 @@
 <h1>Hi there, I'm Gokul Krishna 👋</h1>  
 <b>Machine Learning Engineer | MLOps Specialist | AI Workflow Architect</b>  
 
-Welcome to my GitHub profile! I'm passionate about building reliable, production-ready ML pipelines that scale.  
-Here are two of my featured projects showcasing end-to-end ML engineering with modern MLOps practices.
+As a passionate ML engineer, I specialize in building scalable, production-grade AI solutions with a focus on automation, reliability, and performance.  
+I thrive at the intersection of data science and DevOps, where engineering meets intelligence.
+
+With hands-on experience in predictive modeling, real-time inference APIs, and automated training pipelines,  
+I enjoy solving real-world problems using tools like FastAPI, MLflow, DVC, Celery, and AWS.
+
+Whether it’s deploying intelligent systems, optimizing simulation-based models, or orchestrating end-to-end pipelines —  
+I aim to build AI that not only works, but works smart.
+
+📌 *Explore some of my featured projects below to see my work in action.*
 
 </td>
-
 <td width="40%" align="center">
   <img src="https://github.com/megokul/megokul/blob/main/assets/dev.gif?raw=true" alt="developer gif" width="300"/>
 </td>
   </tr>
 </table>
+
 
 
 
