@@ -8,10 +8,11 @@
 Welcome to my GitHub profile! I'm passionate about building reliable, production-ready ML pipelines that scale.  
 Here are two of my featured projects showcasing end-to-end ML engineering with modern MLOps practices.
 
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github.com/megokul/megokul/blob/main/assets/dev.gif?raw=true" alt="developer gif" width="300"/>
-    </td>
+</td>
+
+<td width="40%" align="center">
+  <img src="https://github.com/megokul/megokul/blob/main/assets/dev.gif?raw=true" alt="developer gif" width="300"/>
+</td>
   </tr>
 </table>
 
