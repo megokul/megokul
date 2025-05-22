@@ -5,13 +5,13 @@
 <h1>Hi there, I'm Gokul Krishna 👋</h1>  
 <b>Machine Learning Engineer | MLOps Specialist | AI Workflow Architect</b>  
 
-As a passionate ML engineer, I specialize in building scalable, production-grade AI solutions with a focus on automation, reliability, and performance.  
+🚀 As a passionate ML engineer, I specialize in building scalable, production-grade AI solutions with a focus on automation, reliability, and performance.  
 I thrive at the intersection of data science and DevOps, where engineering meets intelligence.
 
-With hands-on experience in predictive modeling, real-time inference APIs, and automated training pipelines,  
+🧠 With hands-on experience in predictive modeling, real-time inference APIs, and automated training pipelines,  
 I enjoy solving real-world problems using tools like FastAPI, MLflow, DVC, Celery, and AWS.
 
-Whether it’s deploying intelligent systems, optimizing simulation-based models, or orchestrating end-to-end pipelines —  
+🎯 Whether it’s deploying intelligent systems, optimizing simulation-based models, or orchestrating end-to-end pipelines —  
 I aim to build AI that not only works, but works smart.
 
 📌 *Explore some of my featured projects below to see my work in action.*
