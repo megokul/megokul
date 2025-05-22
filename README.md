@@ -38,15 +38,6 @@ A Dockerized regression pipeline with a simple web interface for real-time predi
 
 ---
 
-## 📫 Let's Connect
-
-- **Email:** nvgokulkrishna@gmail.com  
-- **LinkedIn:** [linkedin.com/in/nv-gokul-krishna](https://linkedin.com/in/nv-gokul-krishna)
-
-> "Bridging real-world AI deployment with modular, reproducible, and scalable engineering."
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nv-gokul-krishna/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nvgokulkrishna@gmail.com) 
 
