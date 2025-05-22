@@ -103,5 +103,3 @@ A Dockerized regression pipeline with a simple web interface for real-time predi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/megokul/megokul/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/megokul/megokul/output/pacman-contribution-graph.svg">
 </picture>
-
-<em>_generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">abozanona/pacman-contribution-graph</a>_</em>
