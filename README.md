@@ -1,4 +1,4 @@
-# Hi there, I'm Gokul Krishna N V 👋  
+# Hi there, I'm Gokul Krishna 👋  
 **Machine Learning Engineer | MLOps Specialist | AI Workflow Architect**
 
 Welcome to my GitHub profile! I'm passionate about building reliable, production-ready ML pipelines that scale.  
