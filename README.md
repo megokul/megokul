@@ -62,7 +62,7 @@ A Dockerized regression pipeline with a simple web interface for real-time predi
 
 ## 💼 Professional Experience
 
-**🔹 Data Scientist – General Motors (via TCS)**  
+**🔹 Data Scientist / CAE Engineer – General Motors (via TCS)**  
 *Sep 2019 – Aug 2023 · Bangalore, India*  
 - Reduced EV battery module mass by 11% via ML-driven simulation optimization  
 - Automated FEA workflows and built predictive models for unseen load conditions  
