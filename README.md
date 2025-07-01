@@ -55,7 +55,7 @@ A reusable and scalable machine learning pipeline to predict student scores:
 - Artifact versioning using DVC
 
 🔗 *Tech:* Scikit-learn, Optuna, PostgreSQL, MLflow, DVC, AWS, YAML  
-📂 *Design:* Production-grade, modular, reusable, data-driven
+📂 *Design:* Production-grade, modular, reusable, data-driven, CI/CD-enabled
 
 ---
 
