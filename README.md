@@ -24,8 +24,6 @@ I aim to build AI that not only works, but works smart.
 </table>
 
 
-
-
 ---
 
 ## 🚀 Featured Projects
@@ -43,6 +41,21 @@ A fully modular, production-grade ML pipeline for phishing detection with:
 
 🔗 *Tech:* FastAPI, Scikit-learn, Celery, MLflow, Optuna, AWS, MongoDB, Docker  
 📂 *Design:* Modular, YAML-driven, CI/CD-enabled
+
+---
+
+### 📊 [Student Performance Prediction – ML Pipeline](https://github.com/megokul/student_performance)  
+A reusable and scalable machine learning pipeline to predict student scores:
+
+- PostgreSQL-based ingestion with table auto-creation from YAML schema
+- Configurable preprocessing (scaling, encoding, imputing, column operations)
+- Full pipeline: ingestion ➜ validation ➜ transformation ➜ training ➜ evaluation ➜ prediction
+- Optuna-powered hyperparameter tuning with MLflow tracking
+- Centralized logging with AWS S3 and local backups
+- Artifact versioning using DVC
+
+🔗 *Tech:* Scikit-learn, Optuna, PostgreSQL, MLflow, DVC, AWS, YAML  
+📂 *Design:* Production-grade, modular, reusable, data-driven
 
 ---
 
