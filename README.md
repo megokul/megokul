@@ -119,7 +119,7 @@ A Dockerized regression pipeline with a simple web interface for real-time predi
   LLM fine-tuning, Kubeflow pipelines, and advanced ML monitoring strategies.
 
 - 💬 **Ask me about**  
-  MLOps pipelines, Kriging optimization, DVC, or real-world AI deployment.
+  MLOps pipelines, Optimization, Automation, or real-world AI deployment.
 
 - ⚡ **Fun fact**  
   My first ML pipeline was trained entirely on FEA simulation data—no labeled dataset, just raw physics!
