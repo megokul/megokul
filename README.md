@@ -39,7 +39,7 @@ A production-grade, end-to-end abstractive text summarization system featuring:
 * Local + AWS S3 artifact storage with YAML-driven configuration.
 
 🔗 *Tech:* FastAPI, Hugging Face Transformers, Google Pegasus, DVC, MLflow, AWS S3, YAML  
-📂 *Design:* Modular, YAML-driven, CI/CD-enabled
+📂 *Design:* Modular, reproducible, cloud-ready, production-grade
 
 🔗 *Tech:* FastAPI, Hugging Face Transformers, Google Pegasus, DVC, MLflow, AWS S3, YAML 
 📂 *Design:* Modular, reproducible, cloud-ready, production-grade
