@@ -38,7 +38,7 @@ A production-grade, end-to-end abstractive text summarization system featuring:
 * DVC dataset versioning, MLflow experiment tracking, and centralized logging.
 * Local + AWS S3 artifact storage with YAML-driven configuration.
 
-🔗 *Tech:* FastAPI, Hugging Face Transformers, Google Pegasus, DVC, MLflow, AWS S3, YAML
+🔗 *Tech:* FastAPI, Hugging Face Transformers, Google Pegasus, DVC, MLflow, AWS S3, YAML 
 📂 *Design:* Modular, reproducible, cloud-ready, production-grade
 
 
