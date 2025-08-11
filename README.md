@@ -41,9 +41,7 @@ A production-grade, end-to-end abstractive text summarization system featuring:
 🔗 *Tech:* FastAPI, Hugging Face Transformers, Google Pegasus, DVC, MLflow, AWS S3, YAML  
 📂 *Design:* Modular, reproducible, cloud-ready, production-grade
 
-🔗 *Tech:* FastAPI, Hugging Face Transformers, Google Pegasus, DVC, MLflow, AWS S3, YAML 
-📂 *Design:* Modular, reproducible, cloud-ready, production-grade
-
+---
 
 ### 🔐 [Phishing Detection API with MLOps](https://github.com/megokul/networksecurity_ml_api)  
 A fully modular, production-grade ML pipeline for phishing detection with:
