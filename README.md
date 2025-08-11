@@ -28,6 +28,20 @@ I aim to build AI that not only works, but works smart.
 
 ## 🚀 Featured Projects
 
+### 📝 [Text Summarizer — Google Pegasus LLM Fine-Tuning Pipeline](https://github.com/megokul/text-summarizer)
+
+A production-grade, end-to-end abstractive text summarization system featuring:
+
+* Full fine-tuning of **Google Pegasus LLM** for domain-specific summarization.
+* Modular, MLOps-ready pipelines for ingestion, validation, transformation, training, evaluation, and prediction.
+* FastAPI backend with Jinja2-powered web UI.
+* DVC dataset versioning, MLflow experiment tracking, and centralized logging.
+* Local + AWS S3 artifact storage with YAML-driven configuration.
+
+🔗 *Tech:* FastAPI, Hugging Face Transformers, Google Pegasus, DVC, MLflow, AWS S3, YAML
+📂 *Design:* Modular, reproducible, cloud-ready, production-grade
+
+
 ### 🔐 [Phishing Detection API with MLOps](https://github.com/megokul/networksecurity_ml_api)  
 A fully modular, production-grade ML pipeline for phishing detection with:
 
