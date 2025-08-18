@@ -28,7 +28,7 @@ I aim to build AI that not only works, but works smart.
 
 ## 🚀 Featured Projects
 
-### 📑 [Blog Generation with AWS Lambda + Bedrock + S3](https://github.com/megokul/bedrock-blog)  
+### 📑 [Blog Generation with AWS Lambda + Bedrock + S3](https://github.com/megokul/blog-generation)  
 A serverless, AI-powered blog generation system featuring:
 
 - **Amazon Bedrock** foundation models for AI text generation
