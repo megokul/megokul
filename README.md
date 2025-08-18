@@ -28,6 +28,20 @@ I aim to build AI that not only works, but works smart.
 
 ## 🚀 Featured Projects
 
+### 📑 [Blog Generation with AWS Lambda + Bedrock + S3](https://github.com/megokul/bedrock-blog)  
+A serverless, AI-powered blog generation system featuring:
+
+- **Amazon Bedrock** foundation models for AI text generation
+- **AWS Lambda** for serverless orchestration
+- **Amazon S3** for persistent blog storage
+- **API Gateway** for secure, HTTPS-based client access
+- Fine-grained **IAM roles** for secure Bedrock and S3 integration
+
+🔗 *Tech:* AWS Lambda, Amazon Bedrock, API Gateway, Amazon S3, Python  
+📂 *Design:* Serverless, cloud-native, scalable, production-ready
+
+---
+
 ### 📝 [Text Summarizer — Google Pegasus LLM Fine-Tuning Pipeline](https://github.com/megokul/text-summarizer)
 
 A production-grade, end-to-end abstractive text summarization system featuring:
